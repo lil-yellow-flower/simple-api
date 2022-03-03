@@ -21,4 +21,17 @@ Sample data:
   "PRS-HMB"
 ]
 
+Should be:
+
+[
+    "CPH-HEL",
+    "HEL-GOT",
+    "GOT-ARN",
+    "ARN-ARL",
+    "ARL-WSH",
+    "WSH-TKY",
+    "TKY-PRS",
+    "PRS-HMB"
+]
+
 Ps. POST as JSON and API will be happy! (ง ͡ʘ ͜ʖ ͡ʘ)ง
