@@ -14,7 +14,7 @@ Sample data:
   "ARN-TKY",
   "BGK-HGK",
   "TKY-BGK",
-  "GOT-ARN",
+  "GOT-ARN"
 ]
 
 Ps. POST as JSON and API will be happy! (ง ͡ʘ ͜ʖ ͡ʘ)ง
